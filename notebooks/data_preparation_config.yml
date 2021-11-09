@@ -9,7 +9,6 @@ general:
 columns:
   categorical:
     - "neighbourhood_group"
-    - "neighbourhood"
     - "room_type"
   continuous:
     - "minimum_nights"
